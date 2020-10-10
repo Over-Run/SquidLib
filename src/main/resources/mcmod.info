@@ -1,0 +1,16 @@
+[
+{
+  "modid": "squidlib",
+  "name": "SquidLib",
+  "description": "The mod provides some lib.",
+  "version": "1.0.0",
+  "mcversion": "1.12.2",
+  "url": "https://github.com/Over-Run/SquidLib",
+  "updateUrl": "",
+  "authorList": ["squid233"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

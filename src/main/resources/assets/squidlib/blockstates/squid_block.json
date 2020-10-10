@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "squidlib:block/squid_block"
+    }
+  }
+}
